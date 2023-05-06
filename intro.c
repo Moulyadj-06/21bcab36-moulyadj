@@ -2,4 +2,6 @@
 void main
 {
    printf(hello!!!)"
+   a+b;
+   b+c;
 }
